@@ -85,7 +85,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b037a7c18bd2bcd4985b45fd72fe7331, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxLives: 2
+  maxLives: 3
   playerPrefab: {fileID: 4738200827533784, guid: b54b917c9d0f91345a17759e36b4b02e,
     type: 2}
   spawnSoundName: Respawn
