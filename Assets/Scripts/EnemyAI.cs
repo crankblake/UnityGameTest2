@@ -86,7 +86,7 @@ public class EnemyAI : MonoBehaviour
             }
             yield return false;
         }
-        if (seeker != null)
+        if (seeker != null && target != null)
         {
             seeker.StartPath(transform.position, target.position, OnPathComplete);
         }
